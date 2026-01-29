@@ -15,34 +15,23 @@
 	<em>Design-focused full-stack developer building polished, high-performance apps.</em>
 </p>
 
-<!-- Contact badges: polished, accessible, responsive -->
-<div role="group" aria-label="contact" align="center" style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin:0 auto;padding:12px;border-radius:20px;max-width:760px;background:linear-gradient(180deg, rgba(124,58,237,0.06), rgba(124,58,237,0.02));box-shadow:0 10px 30px rgba(12,18,38,0.08);">
-  <!-- Primary CTA -->
-  <a href="https://linkedin.com/in/rvimman" aria-label="Hire me on LinkedIn" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:#0A66C2;color:white;border-radius:999px;text-decoration:none;box-shadow:0 6px 18px rgba(10,102,194,0.24);">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" style="filter:invert(1) grayscale(1) opacity(.95)"/>
-    <strong style="font-size:14px;color:white">Hire — Open to full‑time</strong>
-  </a>
-
-  <!-- Secondary chips -->
-  <a href="https://github.com/Inman2004" aria-label="GitHub — Inman2004" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="18" height="18" style="opacity:.9"/>
-    <span style="font-size:13px">GitHub</span>
-  </a>
-
-  <a href="mailto:rvimman@gmail.com" aria-label="Email — rvimman at gmail" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="18" height="18" style="opacity:.9"/>
-    <span style="font-size:13px">rvimman@gmail.com</span>
-  </a>
-
-  <a href="https://rvimmandev.vercel.app" aria-label="Portfolio — rvimmandev" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="Portfolio" width="18" height="18" style="opacity:.95"/>
-    <span style="font-size:13px">Portfolio</span>
-  </a>
-
-  <a href="assets/Immanuvel__Resume.pdf" aria-label="Download resume PDF" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobe.svg" alt="Resume" width="18" height="18" style="opacity:.9"/>
-    <span style="font-size:13px">Resume (PDF)</span>
-  </a>
+<!-- Contact badges: accessible, responsive -->
+<div role="group" aria-label="contact" align="center" style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center;margin:0 auto;padding:12px;border-radius:20px;max-width:760px;background:linear-gradient(180deg, rgba(124,58,237,0.06), rgba(124,58,237,0.03));box-shadow:0 8px 36px rgba(12,18,38,0.06);">
+	<a href="https://github.com/Inman2004" aria-label="GitHub — Inman2004" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
+		<img src="https://img.shields.io/badge/-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	</a>
+	<a href="mailto:rvimman@gmail.com" aria-label="Email — rvimman at gmail" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
+		<img src="https://img.shields.io/badge/-rvimman@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+	</a>
+	<a href="https://linkedin.com/in/rvimman" aria-label="LinkedIn — rvimman" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
+		<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://rvimmandev.vercel.app" aria-label="Portfolio — rvimmandev" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
+		<img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+	</a>
+	<a href="assets/Immanuvel__Resume.pdf" aria-label="Download resume PDF" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
+		<img src="https://img.shields.io/badge/-Resume-7C3AED?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"/>
+	</a>
 </div>
 
 ---
