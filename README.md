@@ -30,10 +30,10 @@
 
 ## About Me
 
-I build elegant, high-performance web applications and delightful developer tools. I blend modern UI design with robust engineering to ship production-ready products that feel polished and fast.
+I'm an early-career Full-Stack Developer focused on building accessible, high-performance web applications and useful developer tools. I combine practical UI design with reliable engineering to deliver production-ready features and improve developer experience.
 
-- Location: United States
-- Open to: Collaborations, Consulting, Contract work
+- Location: Chennai, Tamil Nadu, India
+- Open to: Collaborations, Contract work, Mentorship
 - Pronouns: they/them
 
 ---
@@ -41,8 +41,9 @@ I build elegant, high-performance web applications and delightful developer tool
 ## Highlights
 
 - Passion for clean UX and visual language
-- 10+ years writing production code across frontend and backend
-- Advocate for accessibility, performance, and developer experience
+ - Passion for clean UX and visual language
+ - Practical experience building frontend and backend applications
+ - Advocate for accessibility, performance, and developer experience
 
 ---
 
