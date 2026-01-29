@@ -37,6 +37,12 @@
 ---
 
 <!-- Hero / banner -->
+<!-- Animated banner (SVG) -->
+<p align="center">
+	<img src="assets/images/animated_banner.svg" alt="Animated banner" width="100%" />
+</p>
+
+<!-- Fallback static banner -->
 <p align="center">
 	<img src="assets/images/Github_banner.png" alt="Hero banner" width="100%" />
 </p>
