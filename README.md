@@ -7,13 +7,15 @@
 [![MasterHead](assets/Github_banner.png)](https://github.com/Inman2004)
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=28&color=7C3AED&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Inman+%F0%9F%91%8B;Crafting+beautiful+software+and+interfaces+%F0%9F%92%BB;Design+meets+engineering+%E2%9C%A8" alt="Typing SVG"/>
+	<strong style="font-size:22px">Hi, I'm Inman</strong>
+	<br />
+	<em>Design-focused full-stack developer building polished, high-performance apps.</em>
 </p>
 
 <p align="center">
 	<a href="https://github.com/Inman2004" title="Follow"><img src="https://img.shields.io/badge/-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
-	<a href="mailto:hello@inman.dev" title="Email"><img src="https://img.shields.io/badge/-hello@inman.dev-06B6D4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-	<a href="https://twitter.com/" title="Twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+	<a href="mailto:hello@inman.dev" title="Email"><img src="https://img.shields.io/badge/-Email-06B6D4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+	<a href="assets/Immanuvel__Resume.pdf" title="Download Resume"><img src="https://img.shields.io/badge/-Download%20Resume-7C3AED?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"/></a>
 </p>
 
 ---
