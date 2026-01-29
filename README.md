@@ -30,11 +30,12 @@
 
 ## About Me
 
+
 I'm an early-career Full-Stack Developer focused on building accessible, high-performance web applications and useful developer tools. I combine practical UI design with reliable engineering to deliver production-ready features and improve developer experience.
 
 - Location: Chennai, Tamil Nadu, India
-- Open to: Collaborations, Contract work, Mentorship
-- Pronouns: they/them
+- Open to: Full-time opportunities, Collaborations, Contract work, Mentorship
+- Pronouns: He/Him
 
 ---
 
@@ -123,13 +124,15 @@ Innovative Junior Full Stack Developer with experience in building scalable web 
 
 ---
 
+
 ## Projects — Selected
 
+- **Kassandra — Personalised AI Assistant** ([Live](https://rvimmandev.vercel.app/projects/kassandra))
 - **Stunning UI Kit** — A component library emphasizing accessibility and motion design. (React + TypeScript)
 - **PerfOps** — Tooling for measuring and improving web performance at scale.
 - **DevFlow CLI** — Productivity CLI for scaffolding polished projects.
 
-Links and deeper writeups available in the Projects section on my profile.
+For more, see my [portfolio](https://rvimmandev.vercel.app) or [GitHub repositories](https://github.com/Inman2004?tab=repositories).
 
 ---
 
@@ -142,19 +145,21 @@ Links and deeper writeups available in the Projects section on my profile.
 
 ---
 
+
 ## Get in Touch
 
-- Email: hello@inman.dev
-- Twitter: @your_handle
-- LinkedIn: linkedin.com/in/yourprofile
+- Email: rvimman@gmail.com
+- LinkedIn: [linkedin.com/in/rvimman](https://linkedin.com/in/rvimman)
+- Portfolio: [rvimmandev.vercel.app](https://rvimmandev.vercel.app)
 
 Feel free to reach out for collaborations, open-source ideas, or coffee chats — I reply to thoughtful messages.
 
 ---
 
+
 ## Support & Tips
 
-If you find my projects helpful, consider starring repositories or sharing feedback. For paid work, reach out via email.
+If you find my projects helpful, consider starring repositories or sharing feedback. For paid work, reach out via email or LinkedIn.
 
 ---
 
