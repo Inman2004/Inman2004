@@ -16,11 +16,13 @@
 	<em>Design-focused full-stack developer building polished, high-performance apps.</em>
 </p>
 
-<p align="center">
-	<a href="https://github.com/Inman2004" title="Follow"><img src="https://img.shields.io/badge/-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
-	<a href="mailto:hello@inman.dev" title="Email"><img src="https://img.shields.io/badge/-Email-06B6D4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-	<a href="assets/Immanuvel__Resume.pdf" title="Download Resume"><img src="https://img.shields.io/badge/-Download%20Resume-7C3AED?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"/></a>
-</p>
+<div align="center" style="margin: 0 auto; padding: 18px 0 12px 0; background: rgba(124,58,237,0.08); border-radius: 22px; box-shadow: 0 4px 24px rgba(124,58,237,0.08); backdrop-filter: blur(2px); max-width: 700px;">
+	<a href="https://github.com/Inman2004" title="Follow" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
+	<a href="mailto:rvimman@gmail.com" title="Email" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-rvimman@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://linkedin.com/in/rvimman" title="LinkedIn" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://rvimmandev.vercel.app" title="Portfolio" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+	<a href="assets/Immanuvel__Resume.pdf" title="Download Resume" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-Download%20Resume-7C3AED?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"/></a>
+</div>
 
 ---
 <!-- Hero / banner -->
