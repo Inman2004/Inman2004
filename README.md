@@ -4,7 +4,18 @@
 	- Clean hero, badges, stats, skills, projects, contact
 	- Uses lightweight external shields & GitHub readme-stats
 -->
-[![MasterHead](assets/Github_banner.png)](https://github.com/Inman2004)
+[![MasterHead](assets/images/Github_banner.png)](https://github.com/Inman2004)
+
+
+<!-- Hero / banner -->
+<p align="center">
+	<img src="assets/images/Github_banner.png" alt="Hero banner" width="100%" />
+</p>
+
+<!-- Profile image -->
+<p align="center">
+	<img src="assets/images/me_transparent.png" alt="Profile" width="160" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.12);" />
+</p>
 
 <p align="center">
 	<strong style="font-size:22px">Hi, I'm Inman</strong>
@@ -38,6 +49,58 @@ I build elegant, high-performance web applications and delightful developer tool
 
 ---
 
+## Resume
+
+**IMMANUVEL B**  
+**Junior Software Developer**
+
+**CONTACTS**  
+Chennai, Tamil Nadu | +91 63829-24427 | rvimman@gmail.com | [LinkedIn](https://linkedin.com/in/rvimman) | [Portfolio](https://rvimmandev.vercel.app)
+
+### Professional Summary
+
+Innovative Junior Full Stack Developer with experience in building scalable web applications using the MERN stack (MongoDB, Express, React, Node.js), FastAPI and cloud technologies. Proven track record of improving application performance by 30% and enhancing user engagement through responsive UI design. Committed to Agile methodologies and delivering high-quality, end-to-end software solutions.
+
+### Technical Skills
+
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Java, Python
+- Frontend: React, Redux, Next.js, Tailwind CSS, React Native, Shadcn
+- Backend: Node.js, Express.js, FastAPI, RESTful APIs, GraphQL, OAuth 2.0
+- Databases & Cloud: MongoDB, PostgreSQL, MySQL, Redis, Cloudinary, Supabase
+- DevOps & Testing: Git, Docker, AWS (EC2, S3), Vercel, Playwright, Postman
+
+### Work Experience
+
+**Junior Full Stack Developer** | Wedzat | Dec 2025 – Present
+- Optimized backend API response times by 25% by restructuring database queries in MongoDB and implementing a Redis caching layer.
+- Accelerated frontend development by 30% by converting Figma prototypes into modular, reusable React components for rapid deployment.
+- Developed and deployed 5+ responsive features using React and FastAPI, resulting in a 15% increase in mobile user retention.
+- Architected a secure messaging system using WebSocket and REST, reducing AWS rate-limit by 40%.
+- Collaborated with a cross-functional team of 6 using Agile Scrum to deliver a major feature upgrade 2 weeks ahead of schedule.
+- Ported core features and logic to a mobile application using React Native.
+
+### Key Projects
+
+**Kassandra — Personalised AI Assistant** ([Live](https://rvimmandev.vercel.app/projects/kassandra))
+- Built an AI chatbot using RAG and intent recognition, achieving 95% response accuracy.
+- Implemented TTS and STT features, improving conversation engagement by 20%.
+- Trained the chatbot for efficient learning from user interactions, reducing repetitive queries by 30%.
+- Achieved a 100% accessibility score on Lighthouse by implementing semantic HTML and ARIA roles.
+- Tech Stack: Next.js, Shadcn, Hugging Face, VectorDB, Firebase, TypeScript
+
+### Education
+
+- Bachelor of Engineering in Computer Science | Anna University | 2025
+- Diploma in Computer Engineering | Anna University | 2022
+
+### Certifications
+
+- Machine Learning A-Z: Python, R
+- UI/UX Designer — Growth School
+
+[Download full resume (PDF)](assets/Immanuvel__Resume.pdf)
+
+
 ## Skills & Tools
 
 <p align="center">
@@ -47,6 +110,10 @@ I build elegant, high-performance web applications and delightful developer tool
 	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+	<img src="assets/images/p_languages.png" alt="Language icons" width="480" />
 </p>
 
 ### I enjoy working on

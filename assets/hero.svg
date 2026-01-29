@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence baseFrequency="0.8" numOctaves="1" stitchTiles="stitch" result="t" />
+      <feColorMatrix type="saturate" values="0" in="t" result="g"/>
+      <feBlend in="SourceGraphic" in2="g" mode="overlay" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" opacity="0.9"/>
+  <g filter="url(#grain)" opacity="0.08">
+    <rect width="100%" height="100%" fill="#fff"/>
+  </g>
+  <g transform="translate(60,40)">
+    <text x="0" y="70" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="56" font-weight="700" fill="#0f172a">FULL-STACK</text>
+    <text x="0" y="130" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="96" font-weight="800" fill="url(#g)">DEV</text>
+    <g transform="translate(360,10)">
+      <rect x="0" y="12" width="340" height="48" rx="8" fill="#0f172a" opacity="0.06" />
+      <text x="20" y="45" font-family="Inter, system-ui" font-size="18" fill="#0f172a">Design · Performance · Accessibility</text>
+    </g>
+    <g>
+      <circle cx="1080" cy="40" r="36" fill="#fff" opacity="0.06" />
+    </g>
+  </g>
+  <g transform="translate(60,180)">
+    <a href="assets/Immanuvel__Resume.pdf">
+      <rect x="0" y="0" rx="10" width="220" height="44" fill="#ffffff" opacity="0.92"></rect>
+      <text x="110" y="30" font-family="Inter, system-ui" font-size="14" font-weight="600" text-anchor="middle" fill="#111827">Download Resume</text>
+    </a>
+    <g transform="translate(260,6)">
+      <text x="0" y="24" font-family="Inter, system-ui" font-size="14" fill="#0f172a">hello@inman.dev — GitHub: Inman2004</text>
+    </g>
+  </g>
+</svg>
