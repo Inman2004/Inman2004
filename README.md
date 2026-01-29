@@ -4,7 +4,7 @@
 	- Clean hero, badges, stats, skills, projects, contact
 	- Uses lightweight external shields & GitHub readme-stats
 -->
-[![MasterHead](https://i.ibb.co/m5ntMvVx/Github-banner.png)](https://github.com/Inman2004)
+[![MasterHead](assets/Github-banner.png)](https://github.com/Inman2004)
 
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=28&color=7C3AED&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Inman+%F0%9F%91%8B;Crafting+beautiful+software+and+interfaces+%F0%9F%92%BB;Design+meets+engineering+%E2%9C%A8" alt="Typing SVG"/>
