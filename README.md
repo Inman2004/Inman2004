@@ -4,9 +4,6 @@
 	- Clean hero, badges, stats, skills, projects, contact
 	- Uses lightweight external shields & GitHub readme-stats
 -->
-[![MasterHead](assets/images/Github_banner.png)](https://github.com/Inman2004)
-
-
 <!-- Hero / banner -->
 <p align="center">
 	<img src="assets/images/Github_banner.png" alt="Hero banner" width="100%" />
