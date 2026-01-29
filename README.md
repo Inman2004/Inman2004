@@ -4,10 +4,6 @@
 	- Clean hero, badges, stats, skills, projects, contact
 	- Uses lightweight external shields & GitHub readme-stats
 -->
-<!-- Hero / banner -->
-<p align="center">
-	<img src="assets/images/Github_banner.png" alt="Hero banner" width="100%" />
-</p>
 
 <!-- Profile image -->
 <p align="center">
@@ -15,7 +11,7 @@
 </p>
 
 <p align="center">
-	<strong style="font-size:22px">Hi, I'm Inman</strong>
+	<strong style="font-size:22px">Hi, I'm Immanuvel</strong>
 	<br />
 	<em>Design-focused full-stack developer building polished, high-performance apps.</em>
 </p>
@@ -27,7 +23,12 @@
 </p>
 
 ---
+<!-- Hero / banner -->
+<p align="center">
+	<img src="assets/images/Github_banner.png" alt="Hero banner" width="100%" />
+</p>
 
+---
 ## About Me
 
 
