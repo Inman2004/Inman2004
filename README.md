@@ -1,4 +1,3 @@
-
 <!--
 	Modern, aesthetic profile README
 	- Clean hero, badges, stats, skills, projects, contact
@@ -16,23 +15,46 @@
 	<em>Design-focused full-stack developer building polished, high-performance apps.</em>
 </p>
 
-<div align="center" style="margin: 0 auto; padding: 18px 0 12px 0; background: rgba(124,58,237,0.08); border-radius: 22px; box-shadow: 0 4px 24px rgba(124,58,237,0.08); backdrop-filter: blur(2px); max-width: 700px;">
-	<a href="https://github.com/Inman2004" title="Follow" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow"/></a>
-	<a href="mailto:rvimman@gmail.com" title="Email" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-rvimman@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-	<a href="https://linkedin.com/in/rvimman" title="LinkedIn" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://rvimmandev.vercel.app" title="Portfolio" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-	<a href="assets/Immanuvel__Resume.pdf" title="Download Resume" style="margin:0 8px 8px 8px;display:inline-block;"><img src="https://img.shields.io/badge/-Download%20Resume-7C3AED?style=for-the-badge&logo=adobe&logoColor=white" alt="Download Resume"/></a>
+<!-- Contact badges: polished, accessible, responsive -->
+<div role="group" aria-label="contact" align="center" style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;margin:0 auto;padding:12px;border-radius:20px;max-width:760px;background:linear-gradient(180deg, rgba(124,58,237,0.06), rgba(124,58,237,0.02));box-shadow:0 10px 30px rgba(12,18,38,0.08);">
+  <!-- Primary CTA -->
+  <a href="https://linkedin.com/in/rvimman" aria-label="Hire me on LinkedIn" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:#0A66C2;color:white;border-radius:999px;text-decoration:none;box-shadow:0 6px 18px rgba(10,102,194,0.24);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" style="filter:invert(1) grayscale(1) opacity(.95)"/>
+    <strong style="font-size:14px;color:white">Hire — Open to full‑time</strong>
+  </a>
+
+  <!-- Secondary chips -->
+  <a href="https://github.com/Inman2004" aria-label="GitHub — Inman2004" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="18" height="18" style="opacity:.9"/>
+    <span style="font-size:13px">GitHub</span>
+  </a>
+
+  <a href="mailto:rvimman@gmail.com" aria-label="Email — rvimman at gmail" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" width="18" height="18" style="opacity:.9"/>
+    <span style="font-size:13px">rvimman@gmail.com</span>
+  </a>
+
+  <a href="https://rvimmandev.vercel.app" aria-label="Portfolio — rvimmandev" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" alt="Portfolio" width="18" height="18" style="opacity:.95"/>
+    <span style="font-size:13px">Portfolio</span>
+  </a>
+
+  <a href="assets/Immanuvel__Resume.pdf" aria-label="Download resume PDF" style="display:inline-flex;align-items:center;gap:10px;padding:6px 12px;background:rgba(255,255,255,0.96);border-radius:999px;text-decoration:none;color:#0f172a;box-shadow:0 6px 18px rgba(12,18,38,0.06);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobe.svg" alt="Resume" width="18" height="18" style="opacity:.9"/>
+    <span style="font-size:13px">Resume (PDF)</span>
+  </a>
 </div>
 
 ---
+
 <!-- Hero / banner -->
 <p align="center">
 	<img src="assets/images/Github_banner.png" alt="Hero banner" width="100%" />
 </p>
 
 ---
-## About Me
 
+## About Me
 
 I'm an early-career Full-Stack Developer focused on building accessible, high-performance web applications and useful developer tools. I combine practical UI design with reliable engineering to deliver production-ready features and improve developer experience.
 
@@ -45,12 +67,8 @@ I'm an early-career Full-Stack Developer focused on building accessible, high-pe
 ## Highlights
 
 - Passion for clean UX and visual language
- - Passion for clean UX and visual language
- - Practical experience building frontend and backend applications
- - Advocate for accessibility, performance, and developer experience
-
----
-
+- Practical experience building frontend and backend applications
+- Advocate for accessibility, performance, and developer experience
 ## Resume
 
 **IMMANUVEL B**  
@@ -74,6 +92,7 @@ Innovative Junior Full Stack Developer with experience in building scalable web 
 ### Work Experience
 
 **Junior Full Stack Developer** | Wedzat | Dec 2025 – Present
+
 - Optimized backend API response times by 25% by restructuring database queries in MongoDB and implementing a Redis caching layer.
 - Accelerated frontend development by 30% by converting Figma prototypes into modular, reusable React components for rapid deployment.
 - Developed and deployed 5+ responsive features using React and FastAPI, resulting in a 15% increase in mobile user retention.
@@ -84,6 +103,7 @@ Innovative Junior Full Stack Developer with experience in building scalable web 
 ### Key Projects
 
 **Kassandra — Personalised AI Assistant** ([Live](https://rvimmandev.vercel.app/projects/kassandra))
+
 - Built an AI chatbot using RAG and intent recognition, achieving 95% response accuracy.
 - Implemented TTS and STT features, improving conversation engagement by 20%.
 - Trained the chatbot for efficient learning from user interactions, reducing repetitive queries by 30%.
@@ -101,7 +121,6 @@ Innovative Junior Full Stack Developer with experience in building scalable web 
 - UI/UX Designer — Growth School
 
 [Download full resume (PDF)](assets/Immanuvel__Resume.pdf)
-
 
 ## Skills & Tools
 
@@ -127,7 +146,6 @@ Innovative Junior Full Stack Developer with experience in building scalable web 
 
 ---
 
-
 ## Projects — Selected
 
 - **Kassandra — Personalised AI Assistant** ([Live](https://rvimmandev.vercel.app/projects/kassandra))
@@ -148,7 +166,6 @@ For more, see my [portfolio](https://rvimmandev.vercel.app) or [GitHub repositor
 
 ---
 
-
 ## Get in Touch
 
 - Email: rvimman@gmail.com
@@ -158,7 +175,6 @@ For more, see my [portfolio](https://rvimmandev.vercel.app) or [GitHub repositor
 Feel free to reach out for collaborations, open-source ideas, or coffee chats — I reply to thoughtful messages.
 
 ---
-
 
 ## Support & Tips
 
@@ -174,4 +190,3 @@ If you find my projects helpful, consider starring repositories or sharing feedb
 <p align="center">
 	<img src="https://img.shields.io/badge/—-crafted_with_care-7C3AED?style=for-the-badge&logo=github" alt="crafted with care"/>
 </p>
-
