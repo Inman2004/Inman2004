@@ -27,10 +27,10 @@
 		<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://rvimmandev.vercel.app" aria-label="Portfolio — rvimmandev" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
-		<img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+		<img src="https://img.shields.io/badge/-Portfolio-06D6A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 	</a>
 	<a href="assets/Immanuvel__Resume.pdf" aria-label="Download resume PDF" style="display:inline-flex;align-items:center;padding:6px;border-radius:12px;background:rgba(255,255,255,0.96);box-shadow:0 6px 18px rgba(2,6,23,0.06);">
-		<img src="https://img.shields.io/badge/-Resume-7C3AED?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"/>
+		<img src="https://img.shields.io/badge/-Resume-EF4444?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"/>
 	</a>
 </div>
 
