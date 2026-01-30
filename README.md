@@ -86,14 +86,13 @@ Innovative Junior Full Stack Developer with experience in building scalable web 
 
 ### Work Experience
 
-**Junior Full Stack Developer** | Wedzat | Dec 2025 – Present
+**Junior Full Stack Intern** | Wedzat | Dec 2025 – Present
 
-- Optimized backend API response times by 25% by restructuring database queries in MongoDB and implementing a Redis caching layer.
 - Accelerated frontend development by 30% by converting Figma prototypes into modular, reusable React components for rapid deployment.
 - Developed and deployed 5+ responsive features using React and FastAPI, resulting in a 15% increase in mobile user retention.
-- Architected a secure messaging system using WebSocket and REST, reducing AWS rate-limit by 40%.
+- Architected a secure messaging system using WebSocket and REST, reducing AWS requests and realtime latency by 40%.
 - Collaborated with a cross-functional team of 6 using Agile Scrum to deliver a major feature upgrade 2 weeks ahead of schedule.
-- Ported core features and logic to a mobile application using React Native.
+- Migrated essential features from web application (React) to a mobile application (React Native).
 
 ### Key Projects
 
