@@ -6,7 +6,7 @@
 
 <!-- Profile image -->
 <p align="center">
-	<img src="assets/images/me_transparent.png" alt="Profile" width="160" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.12);" />
+	<img src="assets/images/favicon.png" alt="Profile" width="160" style="border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.12);" />
 </p>
 
 <p align="center">
