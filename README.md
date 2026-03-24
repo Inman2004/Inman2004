@@ -184,3 +184,48 @@ If you find my projects helpful, consider starring repositories or sharing feedb
 <p align="center">
 	<img src="https://img.shields.io/badge/—-crafted_with_care-7C3AED?style=for-the-badge&logo=github" alt="crafted with care"/>
 </p>
+I’m learning Plivo integration in Laravel and want to understand the real flow without building a full production system.
+
+Can you help me extend a small Laravel auth app (login/register) with a mocked Plivo integration for learning purposes?
+
+Requirements:
+
+1. Core Goal
+
+- Demonstrate how SMS sending and webhooks work
+- Keep it minimal but realistic (no unnecessary abstractions)
+
+2. Features to include
+
+- Send a mock SMS after user registration (simulate Plivo API call)
+- Store message status in database (e.g., pending, sent, delivered)
+- Create a webhook endpoint that simulates Plivo callback
+- Update message status when webhook is triggered
+
+3. Technical constraints
+
+- Use Laravel (controllers, routes, jobs if needed)
+- No real Plivo API calls — mock or fake the client
+- Keep code small and readable
+- Avoid overengineering (no service layers unless necessary)
+
+4. Code expectations
+
+- Add clear comments explaining:
+   - where Plivo would normally be called
+   - how authentication (AUTH_ID / TOKEN) would be used
+   - how webhook flow works in real systems
+- Show request/response structure similar to real Plivo
+
+5. Output structure
+
+- Routes
+- Controller
+- Mock Plivo service/class
+- Migration (for messages table)
+- Example flow (register → SMS → webhook → status update)
+
+Goal:
+I should be able to run this locally and clearly understand how a real Plivo integration would work in a production Laravel app.
+
+Keep it concise and educational, not production-heavy.
